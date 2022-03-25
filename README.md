@@ -9,8 +9,8 @@ An introduction to Jest, Cypress and Stryker testing frameworks
 
 ## Cypress - Unit Testing
 [Introduction to End to End Testing (E2E)](https://www.youtube.com/watch?v=QSDYfToJI7w)
-
-1. 
+1. Watch and follow along with [this tutorial](https://www.youtube.com/watch?v=wGiU4qdFL6U) to learn to install and run cypress tests.  [Solution Code](https://github.com/profanis/codeShotsWithProfanis/tree/16/install-cypress)
+1. Follow along with [this tutorial](https://www.youtube.com/watch?v=4XJwy0BI0VI) with this [starter repo](https://github.com/TalentPath/cypress-testing-angular-workshop)
 
 
 ## Stryker - Mutation Testing
