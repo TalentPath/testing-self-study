@@ -17,4 +17,7 @@ An introduction to Jest, Cypress and Stryker testing frameworks
 ** Watch this first to get a good understanding of the concepts of Mutation Testing: [Introduction to Mutation Testing](https://www.youtube.com/watch?v=41ywot_Z_Ts) **
 1. [Introduction to Stryker](https://www.youtube.com/watch?v=3JIDM3Es8Mc)
 2. [Setting up Stryker with Angular](https://stryker-mutator.io/docs/stryker-js/guides/angular/)
-3. 
+3. [Here's an example](https://github.com/TalentPath/angular-stryker-example) of Stryker being used with an angular application.  Fork and clone this repo and take a look at the code and Stryker configurations
+
+
+If you have any questions or issues, please reach out to a TalentPath instructor on slack or discord.
