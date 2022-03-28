@@ -7,7 +7,7 @@ An introduction to Jest, Cypress and Stryker testing frameworks
 2. Follow along with [this playlist](https://www.youtube.com/playlist?list=PLZeQR2FcsS5TP95tP4AqUXSiGiNQZHckM) of tutorials to practice writing Jest tests with angular
 3. Fork and clone [this repository](https://github.com/TalentPath/angular-jest-async-unit-test-tutorial).  Follow along with [this tutorial](https://www.youtube.com/watch?v=SAttwOAWgHg) to write Jest tests for this application
 
-## Cypress - Unit Testing
+## Cypress - End To End (E2E) Testing
 [Introduction to End to End Testing (E2E)](https://www.youtube.com/watch?v=QSDYfToJI7w)
 1. Go through this [Cypress tutorial](https://www.youtube.com/watch?v=ke1qAgF7Pt0) for adding cypress to an existing angular application.
 1. Watch and follow along with [this tutorial](https://www.youtube.com/watch?v=wGiU4qdFL6U) to learn to install and run cypress tests.  [Solution Code](https://github.com/profanis/codeShotsWithProfanis/tree/16/install-cypress)
